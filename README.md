@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
+<h1 align="center">Hi 👋🏻, I'm Harshit Sharma</h1>
 <h3 align="center">A passionate learner and creative engineering student with the ability to think out of the box and come up with innovative solutions to complex problems.</h3>
 
 - 🌱 I’m currently learning **Web Development**
