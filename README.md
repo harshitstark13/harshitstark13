@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Graphic Designing and AI**
+- 💬 Ask me about **AI/ML and Graphic Designing**
 
 - 📫 How to reach me **harshitstark01@gmail.com**
 
