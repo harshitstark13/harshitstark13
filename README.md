@@ -45,7 +45,7 @@
 <h3 align="left">🚀 Languages & Tools:</h3>
 
 <!-- 1. Python & Libraries -->
-<strong>🐍 Python & Libraries</strong>
+<strong>🐍 Data Science & Machine Learning Libraries</strong>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/28827688?s=200&v=4" alt="NumPy" width="40" height="40"/></a>
@@ -61,7 +61,7 @@
 </p>
 
 <!-- 2. Other Languages & Platforms -->
-<strong>🌐 Other Languages & Platforms</strong>
+<strong>🌐 Programming Languages & Frameworks</strong>
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -77,7 +77,7 @@
 </p>
 
 <!-- 3. Tools -->
-<strong>🛠️ Tools</strong>
+<strong>🛠️ Development & Platforms</strong>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
@@ -92,7 +92,7 @@
 </p>
 
 <!-- 4. Designing Tools & Skills -->
-<strong>🎨 Designing Tools & Skills</strong>
+<strong>🎨 Design & Creative Tools</strong>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
