@@ -56,7 +56,6 @@
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="40" height="40"/></a>
-  <a href="https://www.nltk.org/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:256/1*MkRd1g1dqH2_Bp0FZ1l4Gg.png" alt="NLTK" width="40" height="40"/></a>
  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://avatars.githubusercontent.com/u/9348983?s=200&v=4" alt="Beautiful Soup" width="40" height="40"/></a>
 
 <!-- 2. Other Languages & Platforms -->
@@ -86,7 +85,6 @@
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <a href="https://sparkar.facebook.com/ar-studio/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36097211?s=200&v=4" alt="Spark AR Studio" width="40" height="40"/></a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="40" height="40"/></a>
 </p>
 
 <!-- 4. Designing Tools & Skills -->
