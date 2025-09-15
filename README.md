@@ -95,14 +95,14 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/></a>
+ <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://www.svgrepo.com/show/452145/adobe-lightroom.svg" alt="Lightroom" width="40" height="40"/></a>
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats & Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitstark13&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitstark13&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=harshitstark13&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=harshitstark13&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
@@ -112,14 +112,14 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitstark13&theme=algolia&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitstark13&theme=algolia&column=9"/>
 </p>
 
 ---
 
 <!-- Animated fun fact for motion -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30EF7A&width=550&lines=Astronauts+aboard+the+ISS+see+16+sunrises+and+sunsets+every+day!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30EF7A&width=1000&lines=Astronauts+aboard+the+ISS+see+16+sunrises+and+sunsets+every+day!" />
 </p>
 
 <!-- Footer: add more visuals by uploading custom gifs/images to your repo -->
