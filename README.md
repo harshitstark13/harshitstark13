@@ -48,7 +48,7 @@
 <strong>🐍 Data Science & Machine Learning Libraries</strong>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/28827688?s=200&v=4" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
@@ -56,16 +56,15 @@
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://plotly.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotly" width="40" height="40"/></a>
-  <a href="https://www.nltk.org/" target="_blank"><img src="https://www.nltk.org/images/logo.png" alt="NLTK" width="40" height="40"/></a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://avatars.githubusercontent.com/u/9348983?s=200&v=4" alt="Beautiful Soup" width="40" height="40"/></a>
-</p>
+  <a href="https://www.nltk.org/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:256/1*MkRd1g1dqH2_Bp0FZ1l4Gg.png" alt="NLTK" width="40" height="40"/></a>
+ <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://avatars.githubusercontent.com/u/9348983?s=200&v=4" alt="Beautiful Soup" width="40" height="40"/></a>
 
 <!-- 2. Other Languages & Platforms -->
 <strong>🌐 Programming Languages & Frameworks</strong>
 <p align="left">
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+    <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
@@ -82,13 +81,12 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://labs.mysql.com/common/logos/mysql-workbench-logo.png" alt="Workbench" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://www.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Workbench" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <a href="https://sparkar.facebook.com/ar-studio/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36097211?s=200&v=4" alt="Spark AR Studio" width="40" height="40"/></a>
-  <!-- Autodesk generic for AutoCAD -->
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Autodesk_logo.png" alt="Autodesk" width="40" height="40"/></a>
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="40" height="40"/></a>
 </p>
 
 <!-- 4. Designing Tools & Skills -->
@@ -97,8 +95,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <!-- Lightroom uses generic Adobe Creative Cloud logo -->
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Adobe_Creative_Cloud_logo.svg" alt="Lightroom" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/></a>
 </p>
 
 ---
