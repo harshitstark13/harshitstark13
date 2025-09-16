@@ -102,7 +102,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitstark13&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=harshitstark13&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=harshitstark13&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
